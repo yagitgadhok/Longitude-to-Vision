@@ -5,6 +5,5 @@ Longitude to Vision comprise of two hacks. Let's start with meaning of longitude
 
 
 ![p1](https://user-images.githubusercontent.com/59294090/120080250-9aa4f100-c0d5-11eb-9e43-e2cad267d28e.PNG)
-![p2](https://user-images.githubusercontent.com/59294090/120080252-9d074b00-c0d5-11eb-8310-89d3cf3ae533.PNG)
 ![p3](https://user-images.githubusercontent.com/59294090/120080256-9f69a500-c0d5-11eb-9749-628fdecb3488.PNG)
 ![p4](https://user-images.githubusercontent.com/59294090/120080257-a1336880-c0d5-11eb-9fa6-58c4c223c58c.PNG)
